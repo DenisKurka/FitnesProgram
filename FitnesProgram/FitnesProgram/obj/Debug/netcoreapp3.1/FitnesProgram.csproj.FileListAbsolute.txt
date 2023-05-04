@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.exe
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.deps.json
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.runtimeconfig.json
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.dll
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\bin\Debug\netcoreapp3.1\FitnesProgram.pdb
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.dll
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.pdb
+C:\Users\Denis\Desktop\Study\2k_2h\Kurs\FitnesProgram\FitnesProgram\obj\Debug\netcoreapp3.1\FitnesProgram.genruntimeconfig.cache
